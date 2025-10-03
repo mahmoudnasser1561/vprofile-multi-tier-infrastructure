@@ -1,15 +1,14 @@
 # adding repository and installing nginx		
 apt update
 apt install nginx -y
+
 cat <<EOT > vproapp
 upstream vproapp {
-
- server app01:8080;
-
+  server app01:8080;
+  server app02:8080;
 }
 
 server {
-
   listen 80;
 
 location / {
