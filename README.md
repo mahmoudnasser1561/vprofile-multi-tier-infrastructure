@@ -40,3 +40,28 @@ It simulates a real-world enterprise application stack with **load balancing, ca
     ├── tomcat_ubuntu.sh
     └── Vagrantfile
 ```
+
+##  Virtual Machines (via Vagrant)
+
+| VM Name  | Role            | OS                    | IP Address    | Memory |
+|----------|-----------------|-----------------------|---------------|--------|
+| **web01** | Nginx LB        | Ubuntu 22.04 (Jammy) | 192.168.56.11 | 800 MB |
+| **app01** | Tomcat App      | CentOS Stream 9       | 192.168.56.12 | 800 MB |
+| **app02** | Tomcat App      | CentOS Stream 9       | 192.168.56.13 | 800 MB |
+| **mc01**  | Memcached       | CentOS Stream 9       | 192.168.56.14 | 600 MB |
+| **db01**  | MySQL DB        | CentOS Stream 9       | 192.168.56.15 | 600 MB |
+| **rmq01** | RabbitMQ Broker | CentOS Stream 9       | 192.168.56.16 | 600 MB |
+
+---
+
+## Setup & Usage
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/mahmoudnasser1561/vprofile-multi-tier-infrastructure
+cd vprofile-multi-tier-infrastructure
+```
+### 2. Bring up the environment
+```bash
+vagrant up
+```
