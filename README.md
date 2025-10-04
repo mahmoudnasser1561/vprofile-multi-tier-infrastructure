@@ -1,5 +1,5 @@
 # vprofile-multi-tier-infrastructure
-automated multi-tier infrastructur provisioning using vagrant
+automated multi-tier infrastructure provisioning using vagrant
 
 This project automates the provisioning of a **multi-tier web application** using **Vagrant** and shell provisioning scripts.  
 It simulates a real-world enterprise application stack with **load balancing, caching, messaging, and database layers**.
