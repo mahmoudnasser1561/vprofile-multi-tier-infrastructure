@@ -6,7 +6,7 @@ It simulates a real-world enterprise application stack with **load balancing, ca
 
 ---
 
-<img width="4729" height="2587" alt="Untitled Diagram drawio(6)" src="https://github.com/user-attachments/assets/5c92d963-8d46-4f78-9924-198636cc7ade" />
+<img width="1202" height="748" alt="p01 drawio" src="https://github.com/user-attachments/assets/13b8d3f4-19a1-4082-9e6f-4dbc76cc7931" />
 
 ## Architecture Overview
 **Components:**
