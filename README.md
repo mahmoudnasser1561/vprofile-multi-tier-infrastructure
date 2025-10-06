@@ -66,3 +66,10 @@ cd vprofile-multi-tier-infrastructure
 vagrant up
 ```
 <img width="657" height="243" alt="Screenshot from 2025-10-06 11-30-08" src="https://github.com/user-attachments/assets/c3d54ba0-97e7-4ba0-840c-3e9183c372dd" />
+
+## Checking Nginx Load Balancing
+run the file check_lb.sh
+```bash
+./check_lb
+```
+<img width="582" height="583" alt="image" src="https://github.com/user-attachments/assets/2ede63b5-3eac-455e-af71-6c1df69e075f" />
