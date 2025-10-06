@@ -65,3 +65,4 @@ cd vprofile-multi-tier-infrastructure
 ```bash
 vagrant up
 ```
+<img width="657" height="243" alt="Screenshot from 2025-10-06 11-30-08" src="https://github.com/user-attachments/assets/c3d54ba0-97e7-4ba0-840c-3e9183c372dd" />
