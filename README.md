@@ -73,3 +73,8 @@ run the file check_lb.sh
 ./check_lb
 ```
 <img width="582" height="583" alt="image" src="https://github.com/user-attachments/assets/2ede63b5-3eac-455e-af71-6c1df69e075f" />
+
+---
+
+### AWS Arch Diagram
+<img width="1304" height="1205" alt="Untitled Diagram drawio(6)" src="https://github.com/user-attachments/assets/376f04f5-65c7-4995-ab13-15adff09a02e" />
