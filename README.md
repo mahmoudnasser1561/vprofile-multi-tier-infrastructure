@@ -77,4 +77,4 @@ run the file check_lb.sh
 ---
 
 ### AWS Arch Diagram
-<img width="1304" height="1205" alt="Untitled Diagram drawio(6)" src="https://github.com/user-attachments/assets/376f04f5-65c7-4995-ab13-15adff09a02e" />
+<img width="1304" height="1205" alt="vprofile_AWS-Page-2 drawio" src="https://github.com/user-attachments/assets/922a1bcf-cf02-4ab5-970f-f8e071ba7cff" />
