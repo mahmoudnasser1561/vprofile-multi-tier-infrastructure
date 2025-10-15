@@ -76,5 +76,5 @@ run the file check_lb.sh
 
 ---
 
-### AWS Arch Diagram
+### AWS IaaS Arch Diagram
 <img width="1304" height="1205" alt="vprofile_AWS-Page-2 drawio" src="https://github.com/user-attachments/assets/922a1bcf-cf02-4ab5-970f-f8e071ba7cff" />
