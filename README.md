@@ -76,5 +76,17 @@ run the file check_lb.sh
 
 ---
 
+## Result
+### View in Browser
+<img width="1289" height="677" alt="Screenshot from 2025-10-30 23-49-50" src="https://github.com/user-attachments/assets/fc57bc52-4cd8-4e01-94f8-7c613f7abf3a" />
+<img width="1289" height="560" alt="Screenshot from 2025-10-30 23-50-12" src="https://github.com/user-attachments/assets/df354ee8-8c5a-4c89-85b0-abb639a7e454" />
+
+#### RabbitMQ is working
+
+<img width="1289" height="455" alt="Screenshot from 2025-10-30 23-50-23" src="https://github.com/user-attachments/assets/30164457-7e6b-4917-aaa6-7ea9f118f182" />
+
+
+##### Time consumed
+the whole infra got automatically provisioned in 82 minutes
 ### AWS IaaS Arch Diagram
 <img width="1304" height="1205" alt="vprofile_AWS-Page-2 drawio" src="https://github.com/user-attachments/assets/922a1bcf-cf02-4ab5-970f-f8e071ba7cff" />
