@@ -90,3 +90,8 @@ run the file check_lb.sh
 the whole infra got automatically provisioned in 82 minutes
 ### AWS IaaS Arch Diagram
 <img width="1304" height="1205" alt="vprofile_AWS-Page-2 drawio" src="https://github.com/user-attachments/assets/922a1bcf-cf02-4ab5-970f-f8e071ba7cff" />
+
+<br>
+<img width="1289" height="491" alt="Screenshot from 2025-10-30 23-02-16" src="https://github.com/user-attachments/assets/0f966cdc-101f-4a87-88d3-1f1bb2978d43" />
+<br>
+<img width="1289" height="491" alt="Screenshot from 2025-10-30 23-02-05" src="https://github.com/user-attachments/assets/e98b575c-180b-40d1-838a-ee29a9bc4eab" />
