@@ -92,6 +92,8 @@ the whole infra got automatically provisioned in 82 minutes
 <img width="1304" height="1205" alt="vprofile_AWS-Page-2 drawio" src="https://github.com/user-attachments/assets/922a1bcf-cf02-4ab5-970f-f8e071ba7cff" />
 
 <br>
-<img width="1289" height="491" alt="Screenshot from 2025-10-31 21-56-08" src="https://github.com/user-attachments/assets/bb8b9df2-1f13-4e0c-9e53-f610b04ed4c4" />
+
+### Deployed successfully to AWS
+<img width="1300" height="681" alt="image" src="https://github.com/user-attachments/assets/51a038e1-2bd9-42d7-acfe-bf38fb88e3b6" />
 
 <br>
